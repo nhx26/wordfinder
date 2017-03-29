@@ -23,5 +23,5 @@ for word in words:
     
     url = "https://www.merriam-webster.com/dictionary/" + word
     webbrowser.open_new_tab(url)
-    time.sleep(0.1)
+    time.sleep(0.2)
     
